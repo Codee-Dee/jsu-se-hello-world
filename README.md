@@ -30,5 +30,3 @@ executable by saying
 
 before running it the first time.
 
-Cody Dempsey
-
